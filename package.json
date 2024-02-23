@@ -2,10 +2,17 @@
   "name": "@naverpay/browserslist-config",
   "version": "1.5.1",
   "description": "Shareable Browserslist config for naverpay",
-  "main": "index.js",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "tsc"
   },
   "author": "geonmo-nine",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  }
 }
