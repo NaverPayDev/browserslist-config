@@ -6,6 +6,7 @@ const NAVERPAY_SUPPORTED_BROWSER_LIST = [
   "not ios_saf < 15",
   "ios_saf >= 15",
   "node >= 18.18.0",
+  "Chrome>=106",
 ];
 
 module.exports = NAVERPAY_SUPPORTED_BROWSER_LIST;
