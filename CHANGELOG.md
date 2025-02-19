@@ -1,5 +1,13 @@
 # @naverpay/browserslist-config
 
+## 2.1.0
+
+### Minor Changes
+
+- e0384a4: add supports Chrome>=106
+
+  PR: [add supports Chrome>=106](https://github.com/NaverPayDev/browserslist-config/pull/12)
+
 ## 2.0.0
 
 ### Major Changes
