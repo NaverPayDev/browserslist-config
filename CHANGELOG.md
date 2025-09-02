@@ -1,5 +1,13 @@
 # @naverpay/browserslist-config
 
+## 2.1.1
+
+### Patch Changes
+
+- 71fb456: update README
+
+  PR: [update README](https://github.com/NaverPayDev/browserslist-config/pull/14)
+
 ## 2.1.0
 
 ### Minor Changes
