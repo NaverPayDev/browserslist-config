@@ -4,6 +4,12 @@
   "description": "Shareable Browserslist config for naverpay",
   "main": "index.js",
   "types": "index.d.ts",
+  "files": [
+    "dist",
+    "README.md",
+    "README.ko.md",
+    "CHANGELOG.md"
+  ],
   "scripts": {
     "release": "changeset publish",
     "changeset-version": "changeset version",
