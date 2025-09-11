@@ -1,4 +1,4 @@
-const NAVERPAY_SUPPORTED_BROWSER_LIST = [
+const NAVERPAY_BROWSERLIST_CONFIG = [
   ">0.2%",
   "not dead",
   "not op_mini all",
@@ -7,6 +7,6 @@ const NAVERPAY_SUPPORTED_BROWSER_LIST = [
   "ios_saf >= 15",
   "node >= 18.18.0",
   "Chrome>=106",
-];
+] as const;
 
-module.exports = NAVERPAY_SUPPORTED_BROWSER_LIST;
+export default NAVERPAY_BROWSERLIST_CONFIG;
