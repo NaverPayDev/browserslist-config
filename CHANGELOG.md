@@ -1,5 +1,13 @@
 # @naverpay/browserslist-config
 
+## 3.0.0
+
+### Major Changes
+
+- b99a807: 브라우저 지원 범위 업데이트
+
+  PR: [브라우저 지원 범위 업데이트](https://github.com/NaverPayDev/browserslist-config/pull/18)
+
 ## 2.1.1
 
 ### Patch Changes
