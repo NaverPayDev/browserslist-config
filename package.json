@@ -1,6 +1,6 @@
 {
   "name": "@naverpay/browserslist-config",
-  "version": "3.0.0",
+  "version": "4.0.0",
   "description": "Shareable Browserslist config for naverpay",
   "main": "index.js",
   "types": "index.d.ts",

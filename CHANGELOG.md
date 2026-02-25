@@ -1,5 +1,13 @@
 # @naverpay/browserslist-config
 
+## 4.0.0
+
+### Major Changes
+
+- 527f675: iOS Safari >= 17, Node.js >= 20.12.0 지원 범위 업데이트
+
+  PR: [iOS Safari >= 17, Node.js >= 20.12.0 지원 범위 업데이트](https://github.com/NaverPayDev/browserslist-config/pull/21)
+
 ## 3.0.0
 
 ### Major Changes
